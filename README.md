@@ -2,13 +2,12 @@
 
 ## Criei essa aplicação utilizando React.js, Autenticação com JWT e API BackEnd Node.js
 
-In this tutorial, we’re gonna build a React JWT Authentication example with LocalStorage, React Router, Axios and Bootstrap (without Redux). I will show you:
+Fluxo de autenticação JWT para inscrição e login de usuário
+Estrutura do projeto para autenticação React JWT (sem Redux) com LocalStorage, React Router e Axios
+Criando componentes React com validação de formulário
+Componentes React para acessar recursos protegidos (autorização)
+Barra de navegação dinâmica no aplicativo React
 
-- JWT Authentication Flow for User Signup & User Login
-- Project Structure for React JWT Authentication (without Redux) with LocalStorage, React Router & Axios
-- Creating React Components with Form Validation
-- React Components for accessing protected Resources (Authorization)
-- Dynamic Navigation Bar in React App
 
   >> Para iniciar o BACKEND:
   1. Entre no diretorio ./node-js-jwt-auth;
