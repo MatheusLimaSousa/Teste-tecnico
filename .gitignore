@@ -15,5 +15,5 @@ yarn.lock
 
 package-lock.json
 
-/node_modules/node-js-jwt-auth
-/node_modules/react-jwt-auth
+/node-js-jwt-auth/node_modules
+/react-jwt-auth/node_modules
